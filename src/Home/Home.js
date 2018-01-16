@@ -29,9 +29,9 @@ free AVAST on a yearly basis.</li>
           <li><a href='http://www.av-test.org/en/home/'>AV-Test.org</a></li>
           <li><a href='https://www.virusbtn.com/vb100/latest_comparative/index'>Virusbtn.com</a></li>
         </ul>
-      <FreewareTools/>
+        <FreewareTools />
       </div>
-      
+
     );
   }
 }
