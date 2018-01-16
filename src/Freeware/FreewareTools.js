@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './Freeware.css';
+import FreewareGames from './FreewareGames';
 class FreewareTools extends Component {
   render() {
     return (
@@ -17,7 +18,8 @@ class FreewareTools extends Component {
         <p>Kiwix:</p>
         <p><a href='http://www.kiwix.org/'>Kiwix for Offline Websites including Wikipedia</a></p>
         <p>Kiwix>Download>See All Available Content <a href='http://wiki.kiwix.org/wiki/Content'>All Content Shortcut</a></p>
-      </div>
+        <FreewareGames/>
+        </div>
     );
   }
 }
