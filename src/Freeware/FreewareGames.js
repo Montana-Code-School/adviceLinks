@@ -17,7 +17,7 @@ class FrewareGames extends Component {
         <p><a href='http://forum.caravelgames.com/downloads.php'>Deadly Rooms Of Death Architect Edition</a></p>
         <p>Free Blizzard Games including StarCraft Legacy for: <a href='https://us.battle.net/account/download/?show=classic'>Windows & Mac</a></p>
         <p><a href='http://www.enemynations.com/'>Enemy Nations</a>: The hard way is following these <a href='http://yoni0505.blogspot.com/2013/03/how-to-install-and-run-enemy-nations-on.html'>Instructions</a></p>
-        <p>It is easier to just use a virtual machine of your choice such as VMware Player or Virtual Box and use <a href='http://www.trustfm.net/software/utilities/Folder2Iso.php'>Folder2Iso</a> tool.
+        <p>It is easier to just use a virtual machine of your choice such as VMware Player or Virtual Box and use <a href='http://www.trustfm.net/software/utilities/Folder2Iso.php'>Folder2Iso</a> tool.</p>
         <p>This game dosn't work on modern windows only non 64-bit Windows operating systms and any Linux that runs with wine: <a href='https://archive.org/details/win3_dranstrm'>Drain Storm</a></p>
         <p><a href='http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm'>Lode Runner Win 95</a></p>
         <p><a href='http://www.factor5.de/downloads.shtml'>Three Amiga Games</a> that works best with <a href='https://fs-uae.net/'>FS-UAE</a> also each time before starting change the option</p>
