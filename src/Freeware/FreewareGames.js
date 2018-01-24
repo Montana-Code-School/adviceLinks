@@ -20,7 +20,8 @@ class FrewareGames extends Component {
         <p>It is easier to just use a virtual machine of your choice such as VMware Player or Virtual Box and use <a href='http://www.trustfm.net/software/utilities/Folder2Iso.php'>Folder2Iso</a> tool.</p>
         <p>This game dosn't work on modern windows only non 64-bit Windows operating systms and any Linux that runs with wine: <a href='https://archive.org/details/win3_dranstrm'>Drain Storm</a></p>
         <p><a href='http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm'>Lode Runner Win 95</a></p>
-        <p><a href='http://www.factor5.de/downloads.shtml'>Three Amiga Games</a> that works best with <a href='https://fs-uae.net/'>FS-UAE</a> also each time before starting change the option</p>
+        <p><a href='http://www.factor5.de/downloads.shtml'>Three Amiga Games</a> that works best with <a href='https://fs-uae.net/'>FS-UAE</a> also each time before starting change the option otherwise the default setting would be slow.</p>
+        <p> *Fs-UAE controls include holding the left alt key in order to move the mouse off the screen, arrow keys, and the right control key for the action button.</p>
         <p><a href='https://te4.org/'>Tales of Maj'Eyal</a> is on all three <a href='https://te4.org/download'>Platforms (Win+Mac+Linux)</a></p>
         <p><a href='https://osgameclones.com/'>Free Inspired Game Projects</a></p>
         <h1>Games that were Commerical Became Offical Freeware</h1>
@@ -33,6 +34,15 @@ class FrewareGames extends Component {
         <p><a href='http://en.uesp.net/wiki/Arena:Files'>Elder Scrolls: Arena</a></p>
         <p><a href='http://en.uesp.net/wiki/Daggerfall:Files'>Elder Scrolls II: Daggerfall</a></p>
         <p>7 Kingdomes Ancient Adversaries is a realtime strategy mixed with civilzation mechanics including researching: <a href='https://github.com/the3dfxdude/7kaa/releases'>GitHub</a> <a href='https://7kfans.com/'>Offical Website</a>, or <a href='https://sourceforge.net/projects/skfans/'>SourceForge</a></p>
+        <p>King's Quest </p>
+        <h1>Open Source Freeware:</h1>
+        <p>Liero is a 2D real time version of Worms <a href='http://www.liero.be/'>Liero Offical Website</a> or <a href='https://github.com/gliptic/liero'>GitHub</a></p>
+        <p>A good fork to Liero with Linux/Mac/Windows ports is:<a href='http://www.openlierox.net/downloads/'>Open Liero X</a> or at <a href='https://github.com/albertz/openlierox'>GitHub</a></p>
+        <p>A puzzle that involves matching and not getting trap <a href='http://www.biniax.com/'>Biniax 2</a></p>
+        <p>Free Orion <a href='http://www.freeorion.org/index.php/Main_Page'>Home</a> or <a href='https://github.com/freeorion/freeorion'>GitHub</a></p>
+       <p><a href='https://github.com/teeworlds/teeworlds'>Tee Worlds</a> <a href='https://www.teeworlds.com/'>Offical Website</a></p>
+        <p> <a href='https://www.openttd.org/en/'>Open Transport Tycoon Deluxe</a></p>
+        <p><a href='https://github.com/doublespeakgames/adarkroom'>A Dark Room Github</a></p>        
         <h1>Game Engines</h1>
         <p><a href='https://developer.android.com/studio/index.html'>Android Studio</a></p>
         <p><a href='https://www.youtube.com/watch?v=OojQitoAEXs&list=PL2xjPbQaM7JZ_FmXwTAesiAciHEPlGmiW'>Game Tutorials for Android Studio</a></p>
@@ -46,6 +56,8 @@ class FrewareGames extends Component {
         <p><a href='http://www.clickteam.com/'>Click Team Fusion</a></p>
         <p><a href='https://xenko.com/'>Xenko</a></p>
         <p><a href='http://www.adventuregamestudio.co.uk/'>Adventure Game Studio:</a> is a great for Adventure Genera games such as King's Quest gameplay or CartLife</p>
+        <p><a href='https://github.com/frogatto/frogatto'>A Platfrom Engine</a></p>
+        <p><a href='http://jmonkeyengine.org/'>JMonkeyEngine</a></p>
         <p>This is a interactice Choose your own adventures to create games on multiple platforms: <a href='https://www.renpy.org/'>Ren'Py</a></p>
         <p>A basic Choose Your Own Adventures with only text and multiple choices to make: <a href='https://www.choiceofgames.com/make-your-own-games/choicescript-intro/'>ChoiceScript Intro</a> and here is the <a href='https://github.com/dfabulich/choicescript'>GitHub</a> Repository</p>
         <h1>Game Art Tools:</h1>
@@ -59,7 +71,6 @@ class FrewareGames extends Component {
         <p><a href='https://en.wikipedia.org/wiki/List_of_freeware_video_games'>List of Freeware Video Games (Wikipedia List)</a></p>
         <p><a href='https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages'>List of Free and Open-Source Software Packages</a></p>
         <p><a href='https://en.wikipedia.org/wiki/List_of_commercial_video_games_released_as_freeware'>List Of COmmercial Video Games Released As Freeware</a></p>
-        <p></p>
       </div>
     );
   }
