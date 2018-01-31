@@ -7,6 +7,12 @@ class HomePage extends Component {
   render() {
     return (
       <div className="Freeware-main">
+      <h1>Educationial Websites</h1>
+      <p>Coding Resources Recommendations:</p>
+     <p>Digital ocean tutorials</p>
+      <p><a href='https://www.digitalocean.com/community/tutorials'>Digital Ocean Tutorials</a></p>
+      <p>Servers for hackers:</p>
+      <p><a href='https://serversforhackers.com/'>ServersForHackers</a></p>
         <h1>List Of Secuirty Tools</h1>
         <p>CCleaner is exclent for <a href='https://www.piriform.com/ccleaner/download'>Windows & Mac</a>: to clean up junk that the computer accumlates over time.</p>
         <p>Emisoft Emergency Kit for  <a href='https://www.emsisoft.com/en/software/eek/'>Windows</a> : is light weight and runs from the folder where it can work from the thumbdrive.</p>
