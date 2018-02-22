@@ -26,8 +26,11 @@ class FreewareTools extends Component {
         <p>When you have it turned in Portrait Mode and see the schedule at the bottom it shows the Movies & Shows option.  <a href='https://en.wikipedia.org/wiki/Pluto_TV'>(Wikipedia)</a>  It also includes Movies & TV Shows that can be watched any time with less ads than Crackle.</p>
         <p><a href='https://www.youtube.com/user/ScreenMediaPictures'>Popcorn Flix</a> at <a href='https://en.wikipedia.org/wiki/Popcornflix'>Wikipedia</a> and <a href='https://www.popcornflix.com/'>offical website</a> also have their own apps.</p>
         <p><a href='https://www.crackle.com/'>Crackle</a> is owned by Sony and each month the selection changes for what movies are free to watch with ads.</p>
+        <p><a href='https://tubitv.com/'>Tubi TV</a> it is on muliple platforms including apps.</p>
         <p><a href='http://publicdomainmovies.net/'>Public Domain Movies</a></p>
         <p><a href='https://librivox.org/'>LibriVox</a>: Free public domain works adapted into free Audio Books</p>
+        <p><a href='https://geekuninstaller.com/download'>Geek Unistaller</a> for Windows.</p>
+        <p> <a href='https://github.com/leereilly/games'>Github list</a> and the modified with Source Code <a href='https://github.com/jrms999/GAMES'></a>GitHub SourceCode List</p>
         <FreewareGames/>
         </div>
     );
